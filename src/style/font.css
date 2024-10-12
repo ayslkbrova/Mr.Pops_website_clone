@@ -1,0 +1,204 @@
+@font-face {
+    font-family: HelveticaNeueCyr;
+    src: url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-Roman.woff2) format("woff2"),url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-Roman.woff) format("woff"),url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-Roman.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: HelveticaNeueCyr;
+    src: url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-Italic.woff2) format("woff2"),url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-Italic.woff2) format("woff"),url(.././assets/fonts/helvetica-neue/HelveticaNeueCyr-MediumItalic.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap
+}
+/* Helvetica Neue Cyr - Black */
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Black.otf') format('opentype');
+    font-weight: 900; /* Black is usually 900 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Black Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-BlackItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  /* Helvetica Neue Cyr - Bold */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Bold.otf') format('opentype');
+    font-weight: 700; /* Bold is typically 700 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Bold Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  /* Helvetica Neue Cyr - Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Italic.otf') format('opentype');
+    font-weight: 400; /* Normal/Regular weight */
+    font-style: italic;
+  }
+  
+  /* Helvetica Neue Cyr - Light */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Light.otf') format('opentype');
+    font-weight: 300; /* Light weight */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Light Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  /* Helvetica Neue Cyr - Medium */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Medium.otf') format('opentype');
+    font-weight: 500; /* Medium is typically 500 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Roman */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Roman.otf') format('opentype');
+    font-weight: 400; /* Regular/Roman is typically 400 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Thin */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-Thin.otf') format('opentype');
+    font-weight: 100; /* Thin is usually 100 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - Thin Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-ThinItalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  /* Helvetica Neue Cyr - UltraLight */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-UltraLight_0.otf') format('opentype');
+    font-weight: 200; /* UltraLight is typically 200 */
+    font-style: normal;
+  }
+  
+  /* Helvetica Neue Cyr - UltraLight Italic */
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/helvetica-neue/HelveticaNeueCyr-UltraLightItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+
+
+
+
+@font-face {
+    font-family: Cervo;
+    src: url(.././assets/fonts/cervo/Cervo.woff2) format("woff2"),url(.././assets/fonts/cervo/Cervo.woff) format("woff"),url(.././assets/fonts/cervo/Cervo.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+/* Cervo - Thin Italic */
+@font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-ThinItalic.otf') format('opentype');
+    font-weight: 100; /* Thin */
+    font-style: italic;
+  }
+  
+  /* Cervo - Thin */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-Thin.otf') format('opentype');
+    font-weight: 100; /* Thin */
+    font-style: normal;
+  }
+  
+  /* Cervo - Regular Italic */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-RegularItalic.otf') format('opentype');
+    font-weight: 400; /* Regular */
+    font-style: italic;
+  }
+  
+  /* Cervo - Regular */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-Regular.otf') format('opentype');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+  }
+  
+  /* Cervo - Medium Italic */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-Medium-Italic.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: italic;
+  }
+  
+  /* Cervo - Medium */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-Medium.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+  }
+  
+  /* Cervo - Light Italic */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-LightItalic.otf') format('opentype');
+    font-weight: 300; /* Light */
+    font-style: italic;
+  }
+  
+  /* Cervo - Light */
+  @font-face {
+    font-family: 'Cervo';
+    src: url('../assets/fonts/cervo/Cervo-Light.otf') format('opentype');
+    font-weight: 300; /* Light */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Cervo W01 Medium";
+    src: url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.eot");
+    src: url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/56c968dd27daa39dbfc19c64dbf0ae21.svg#Cervo W01 Medium")format("svg");
+}

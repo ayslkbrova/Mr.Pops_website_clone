@@ -1,0 +1,628 @@
+[
+    {
+      "id": "2484",
+      "name": "Vanilla and Brownie",
+      "code": "ФР-00000050",
+      "type": "base",
+      "href": "/icecream/2484",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/vanil-brauni_600x0_09a.png",
+      "weight": 80,
+      "description": "Dense vanilla ice cream with homemade brownie filling.. Chocolate inside and out. Once again, very chocolatey.",
+      "compound": "Cream, sour cream, condensed milk, Brownies (black chocolate (cocoa mass, sugar, cocoa butter, soy lecithin, vanillin), flour, butter, eggs, sugar, salt)",
+      "energyValue": {
+        "proteins": "3.52g",
+        "fats": "14.24g",
+        "carbohydrates": "22.32g",
+        "calories": "232 kcal"
+      },
+      "marqueeText": "Vanilla and Brownie *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/4_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/image_1920x0_75a.jpg",
+      "price": 110,
+      "cities": [
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 116,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 1289,
+          "price": 110
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 88,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2485",
+      "name": "Double Chocolate",
+      "code": "ФР-00000059",
+      "type": "base",
+      "href": "/icecream/2485",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/dvojnoj-shokolad-min_600x0_09a.png",
+      "weight": 80,
+      "description": "Let’s not lie - it’s hearty and calorie-dense, with chunks of 56% Belgian chocolate inside. Chocolate inside and out. Once again, very chocolatey.",
+      "compound": "Sour cream, condensed milk, cream, cocoa, corn syrup, dark chocolate (cocoa butter, sugar, cocoa, soya lecithin, vanilla).",
+      "energyValue": {
+        "proteins": "4.08g",
+        "fats": "12.64g",
+        "carbohydrates": "20.24g",
+        "calories": "211 kcal"
+      },
+      "marqueeText": "Double Chocolate *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/2choko1400x810_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/2chocolat-685x810_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 24,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 1901,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 139,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2486",
+      "name": "Toffee",
+      "code": "ФР-00000058",
+      "type": "base",
+      "href": "/icecream/2486",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/iriska_600x0_09a.png",
+      "weight": 80,
+      "description": "A return to childhood, to the same sensation of lingering with sweetness. Also in combination with cream.",
+      "compound": "Sour cream, boiled condensed milk, cream.",
+      "energyValue": {
+        "proteins": "3.44g",
+        "fats": "15.84g",
+        "carbohydrates": "20.48g",
+        "calories": "238 kcal"
+      },
+      "marqueeText": "Toffee *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/iriska-1400x810_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/iriska-685x810_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 47,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 952,
+          "price": 110
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 119,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2487",
+      "name": "Lavender",
+      "code": "ФР-00000068",
+      "type": "base",
+      "href": "/icecream/2487",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/lavanda_600x0_09a.png",
+      "weight": 80,
+      "description": "A creamy base with flecks of lavender infusion. I got Mr. Pops with an aroma of field herbs.",
+      "compound": "Sour cream, condensed milk, cream, lavender extract, natural currant juice, corn syrup.",
+      "energyValue": {
+        "proteins": "2.64g",
+        "fats": "11.60g",
+        "carbohydrates": "19.44g",
+        "calories": "193 kcal"
+      },
+      "marqueeText": "Lavender *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/71_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/7_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 106,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 936,
+          "price": 110
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 128,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2488",
+      "name": "Hazelnut",
+      "code": "ФР-00000064",
+      "type": "base",
+      "href": "/icecream/2488",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/lesnojorex-min_600x0_09a.png",
+      "weight": 80,
+      "description": "The favorite choice of urban squirrels and smart people. A powerful ice cream that will make you both tasty and nutritious at the same time. On board: delicate milk cream and grated hazelnuts.",
+      "compound": "Hazelnut paste, cream, milk, sugar, milk sugar, corn syrup.",
+      "energyValue": {
+        "proteins": "5.2g",
+        "fats": "19.52g",
+        "carbohydrates": "20.08g",
+        "calories": "247 kcal"
+      },
+      "marqueeText": "Hazelnut *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/fun1-min_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/fun2-min_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 676,
+          "price": 110
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 99,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2489",
+      "name": "Lemon Cheesecake",
+      "code": "ФР-00000157",
+      "type": "base",
+      "href": "/icecream/2489",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/limonnyiĭ-chizkeĭk-1_600x0_09a.png",
+      "weight": 80,
+      "description": "Another hearty unit of the collection: a blondie biscuit wrapped in a creamy base, with natural lemon juice.",
+      "compound": "Biscuit (white chocolate, eggs, butter, flour, salt, sugar, vanilla), lemon juice, cream, sour cream, condensed milk, corn syrup.",
+      "energyValue": {
+        "proteins": "3.12g",
+        "fats": "14.16g",
+        "carbohydrates": "22.88g",
+        "calories": "232 kcal"
+      },
+      "marqueeText": "Lemon Cheesecake *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/limch-1400x810_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/limch-685x810_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 63,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 1364,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 69,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2490",
+      "name": "Raspberry",
+      "code": "ФР-00000052",
+      "type": "base",
+      "href": "/icecream/2490",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/malina-min_600x0_09a.png",
+      "weight": 80,
+      "description": "It tastes so raspberry that any sore throat goes away even faster.",
+      "compound": "Raspberries, sugar, sour cream, condensed milk.",
+      "energyValue": {
+        "proteins": "2g",
+        "fats": "5.4g",
+        "carbohydrates": "30.25g",
+        "calories": "143 kcal"
+      },
+      "marqueeText": "Raspberry *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/raspberry-1400x810-min_1920x0_75a.jpg",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/raspberry-685x810-min_1920x0_75a.jpg",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 120,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 1182,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 85,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2491",
+      "name": "Plombière",
+      "code": "ФР-00000736",
+      "type": "base",
+      "href": "/en/catalog/plombiere/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/plombir_600x0_09a.png",
+      "weight": 80,
+      "intro": false,
+      "description": "Less is more, and we're not going to argue. Our take on a timeless, creamy classic.",
+      "compound": "Cream, sour cream, condensed milk.",
+      "energyValue": {
+        "proteins": "3.2g",
+        "fats": "15.6g",
+        "carbohydrates": "16,56g",
+        "calories": "219 kcal"
+      },
+      "marqueeText": "Plombière *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/plombir1400x810_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/pl-685x810_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 46,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 953,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 43,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2492",
+      "name": "Salted caramel",
+      "code": "ФР-00000056",
+      "type": "base",
+      "href": "/en/catalog/salted-caramel/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/solenaya-karamel_600x0_09a.png",
+      "weight": 80,
+      "intro": false,
+      "description": "It's a case where the sweetness only gets brighter when you salt it up. And also with sea salt.",
+      "compound": "Cream, sour cream, butter, sugar, salt.",
+      "energyValue": {
+        "proteins": "1.44 g",
+        "fats": "16,56 g",
+        "carbohydrates": "20,32 g",
+        "calories": "237 kcal"
+      },
+      "marqueeText": "Salted caramel *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/f1-min_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/f2-min_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 64,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 939,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 152,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2493",
+      "name": "Chocolate-covered cheesecake",
+      "code": "ФР-00000084",
+      "type": "base",
+      "href": "/en/catalog/chocolate-covered-cheesecake/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/syirok_600x0_09a.png",
+      "weight": 75,
+      "intro": false,
+      "description": "A farmer's cheese that has been grated to a tender mass and covered with Belgian dark chocolate. Our only product worth defrosting before eating.",
+      "compound": "Sour milk cottage cheese, sugar, dark chocolate glaze (cocoa mass, sugar, cocoa butter, soy lecithin, vanilla sugar), butter.",
+      "energyValue": {
+        "proteins": "9,30 g",
+        "fats": "10,28 g",
+        "carbohydrates": "19,05 g",
+        "calories": "206 kcal"
+      },
+      "marqueeText": "Chocolate-covered cheesecake *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/sirok-1400x810_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/sirok-685-x-810_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 28,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 731,
+          "price": 110
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 144,
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": "2495",
+      "name": "Brownies with cranberry and cherry",
+      "code": "ФР-00000166",
+      "type": "premium",
+      "href": "/en/catalog/brownies-with-cranberry-and-cherry/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/brauni-vishnya-kopiya-min_600x0_09a.png",
+      "weight": 58,
+      "intro": false,
+      "description": "The texture of the brownie is soft, but dense and not spongy. It's sweet, but don't be intimidated. Hidden inside is a contrast of sour cherries and cranberries. We covered it all with a layer of white chocolate.",
+      "compound": "Dark chocolate, sugar, butter, chicken egg, cream, dried cranberries, dried cherries, flour, salt, vanillin, sunflower oil, white chocolate.",
+      "energyValue": {
+        "proteins": "3.07 g",
+        "fats": "19.95 g",
+        "carbohydrates": "35.26 g",
+        "calories": "276 kcal"
+      },
+      "marqueeText": "Brownies with cranberry and cherry *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/36_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/889_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 249,
+          "price": 125
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 15,
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "2496",
+      "name": "Brownies salted caramel",
+      "code": "ФР-00000168",
+      "type": "premium",
+      "href": "/en/catalog/brownies-salted-caramel/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/brauni-karamel-kopiya-min_600x0_09a.png",
+      "weight": 58,
+      "intro": false,
+      "description": "The texture of the brownie is soft, but dense and not spongy. It is sweet, but there is a surprise inside. Its sweetness will be diluted by a salty caramel with a special aftertaste. We covered it all with a layer of milk chocolate.",
+      "compound": "Dark chocolate, sugar, butter, chicken egg, cream, flour, salt, vanillin.",
+      "energyValue": {
+        "proteins": "2.96 g",
+        "fats": "16.47 g",
+        "carbohydrates": "30.33 g",
+        "calories": "282 kcal"
+      },
+      "marqueeText": "Brownies salted caramel *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/br1-1400x810_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/brauni-2-685x810_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 48,
+          "price": 125
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 181,
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "2498",
+      "name": "Passion fruit",
+      "code": "ФР-00000070",
+      "type": "premium",
+      "href": "/en/catalog/passion-fruit/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/mango-marakujya-min_600x0_09a.png",
+      "weight": 80,
+      "intro": false,
+      "description": "A mix of Dominican mango puree and passion fruit puree (with those little grains). It's refreshing with a little sourness.",
+      "compound": "Passion fruit pulp, mango pulp, sour cream, condensed milk.",
+      "energyValue": {
+        "proteins": "3.20 g",
+        "fats": "4.00 g",
+        "carbohydrates": "21.52 g",
+        "calories": "134 kcal"
+      },
+      "marqueeText": "Passion fruit *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/5_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/screen_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 64,
+          "price": 125
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 559,
+          "price": 125
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 111,
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "2499",
+      "name": "Eskimo",
+      "code": "ФР-00000103",
+      "type": "premium",
+      "href": "/en/catalog/eskimo/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/eskimo_600x0_09a.png",
+      "weight": 95,
+      "intro": false,
+      "description": "A timeless classic: dark chocolate-covered creamy ice cream. It seems simple, but only until the first bite.",
+      "compound": "Sour cream, cream, condensed milk, dark chocolate glaze (butter, cocoa, sugar, cocoa butter, soy lecithin, vanilla).",
+      "energyValue": {
+        "proteins": "3.80 g",
+        "fats": "25.18 g",
+        "carbohydrates": "21.66 g",
+        "calories": "329 kcal"
+      },
+      "marqueeText": "Eskimo *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/eskimo1400x810_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/222_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 1019,
+          "price": 125
+        },
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 257,
+          "price": 125
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 45,
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "2501",
+      "name": "Brownies with apricots and prunes",
+      "code": "ФР-00000162",
+      "type": "premium",
+      "href": "/en/catalog/brownies-with-apricots-and-prunes/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/brauni-kuraga-kopiya-min_600x0_09a.png",
+      "weight": 58,
+      "intro": false,
+      "description": "The texture of the brownie is soft, but dense and not spongy. It is sweet on its own, but we added the tartness of dried apricots and a little sourness of prunes. We covered this combination with a layer of milk chocolate.",
+      "compound": "Dark chocolate, sugar, butter, chicken egg, cream, dried apricots, prunes, flour, salt, vanillin.",
+      "energyValue": {
+        "proteins": "3.19 g",
+        "fats": "13.98 g",
+        "carbohydrates": "31.61 g",
+        "calories": "265 kcal"
+      },
+      "marqueeText": "Brownies with apricots and prunes *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/1113_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/brauni-685x810_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 45,
+          "price": 125
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 207,
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "2540",
+      "name": "Strawberries and Cream",
+      "code": "ФР-00000053",
+      "type": "base",
+      "href": "/en/catalog/strawberries-with-cream/",
+      "img": "https://data.mrpops.ua/assets/cache_image/media/product-preview/product-preview-compress/klubnika-min_600x0_09a.png",
+      "weight": 80,
+      "intro": false,
+      "description": "Strawberries whipped with cream and sugar. Yes, just like when we were kids.",
+      "compound": "Cream, mashed strawberries, sugar, condensed milk, corn syrup.",
+      "energyValue": {
+        "proteins": "1.36 g",
+        "fats": "5.28 g",
+        "carbohydrates": "16.00 g",
+        "calories": "118 kcal"
+      },
+      "marqueeText": "Strawberries and Cream *",
+      "productBackground": "https://data.mrpops.ua/assets/cache_image/media/product/77_1920x0_479.webp",
+      "productContentImage": "https://data.mrpops.ua/assets/cache_image/media/product/78_1920x0_479.webp",
+      "cities": [
+        {
+          "code": "ФР-000011",
+          "name": "Odesa",
+          "quantity": 20,
+          "price": 110
+        },
+        {
+          "code": "ФР-000002",
+          "name": "Dnipro",
+          "quantity": 802,
+          "price": 110
+        },
+        {
+          "code": "ФР-000034",
+          "name": "Kyiv",
+          "quantity": 54,
+          "price": 110
+        }
+      ]
+    }
+  ]

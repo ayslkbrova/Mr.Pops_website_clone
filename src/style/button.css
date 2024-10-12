@@ -1,0 +1,158 @@
+
+
+.styles_button_stroke__eb5Qp {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    --color-text: var(--button-stroke-text);
+    --hover-duration: 0.5s;
+    transition: opacity .25s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+.styles_button_stroke__eb5Qp:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    top: 2px;
+    left: 2px;
+    width: 100%;
+    height: 100%;
+    background-color: var(--button-stroke-plane);
+    transition: background-color var(--hover-duration);
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+.styles_button_stroke__container__YH_dE {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    min-width: var(--button-stroke-size);
+    height: var(--button-stroke-size);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--button-stroke-bg);
+    transform: translateZ(0);
+    transition: background-color var(--hover-duration), transform var(--hover-duration);
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+.styles_button_stroke__container__YH_dE:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    border: 1px solid var(--button-stroke-stroke);
+    transition: border-color var(--hover-duration);
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+.styles_button_stroke__content__tzl67 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    padding: 0 1.25rem;
+    font-size: .9375rem;
+    line-height: 130%;
+    color: var(--color-text);
+    transition: color var(--hover-duration);
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+.styles_button_stroke__container__YH_dE:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-color: var(--button-stroke-clip);
+    transform: scaleY(0) translateZ(0);
+    transform-origin: bottom left;
+    transition: transform var(--hover-duration), background-color var(--hover-duration);
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+html:not(.v-mobile) .styles_button_stroke__eb5Qp.active, html:not(.v-mobile) .styles_button_stroke__eb5Qp.styles_active__u7CLu, html:not(.v-mobile) .styles_button_stroke__eb5Qp:hover:not(:disabled).styles_has_hover__Qf4F_ {
+    --color-text: var(--button-stroke-text-hover);
+}
+.styles_button_stroke__eb5Qp:hover:not(:disabled).styles_has_hover__Qf4F_:not(.styles_no_press__nEmj7) .styles_button_stroke__container__YH_dE {
+    transform: translate3d(2px, 2px, 0);
+}
+.styles_button_stroke__eb5Qp:hover:not(:disabled).styles_has_hover__Qf4F_ .styles_button_stroke__container__YH_dE:before {
+    border-color: var(--button-stroke-stroke-hover);
+}
+.styles_button_stroke__content__tzl67.none {
+    padding: 0;
+}
+.styles_button_stroke__eb5Qp:hover:not(:disabled).styles_has_hover__Qf4F_ .styles_button_stroke__container__YH_dE:after {
+    transform: scale(1) translateZ(0);
+}
+
+
+
+
+
+
+/*INPUT*/
+.styles_input__2_cWs {
+    position: relative;
+  
+    width: var(--button-stroke-size);
+    height: var(--button-stroke-size);
+}
+
+
+ .styles_input__2_cWs:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-color: var(--color-contrast);
+    transform: translate(2px, 2px);
+}
+ .styles_input__2_cWs input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    outline: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: var(--color-light);
+    border: 1px solid var(--color-contrast);
+    border-radius: 0;
+    text-align: center;
+    line-height: 130%;
+    color: var(--color-contrast);
+    transition: transform .25s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}

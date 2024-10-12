@@ -1,0 +1,196 @@
+#footer-form {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#footer-input, #footer-textarea, #footer-select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+}
+
+#footer-select {
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+#footer-form-element {
+    position: relative;
+}
+
+#footer-alarm-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+}
+
+#footer-textarea {
+    grid-column: span 3; /* Span across all columns for textarea */
+    height: 100px;
+}
+
+#footer-button {
+    grid-column: span 3;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Dropdown styling */
+#footer-dropdown {
+    position: relative;
+    grid-column: span 2; /* Span over two columns */
+    margin-bottom: 20px;
+}
+
+#footer-dropdown-btn {
+    background-color: transparent;
+    color: white;
+    padding: 15px;
+    border: none;
+    text-align: left;
+    width: 100%;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#footer-dropdown-btn .arrow {
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+#footer-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 10px;
+    z-index: 1;
+    color: #A81F30;
+}
+
+#footer-dropdown.active #footer-dropdown-content {
+    display: block;
+}
+
+#footer-dropdown-content p {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#footer-dropdown-content p:hover {
+    background-color: #F4DBC7;
+}
+
+#footer-dropdown-content .active {
+    font-weight: bold;
+    color: #A81F30;
+}
+
+/* Footer styling */
+#footer-footer {
+    background-color: #A81F30;
+    padding: 20px 0;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin-top: 40px;
+}
+
+#footer-footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#footer-footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+#footer-footer-nav {
+    display: flex;
+    gap: 20px;
+}
+
+#footer-footer-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+#footer-footer-link:hover {
+    text-decoration: underline;
+}
+#footer h1{
+
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 4.5rem;
+    line-height: 90%;
+    text-transform: uppercase;
+    padding: 50px 0;
+    font-family: "Cervo W01 Medium";
+    color: #fff;
+
+}
+#footer{
+background-color: #b00e2f;
+
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #footer-form {
+        grid-template-columns: 1fr;
+        overflow-x: hidden;
+    }
+
+    #footer-textarea, #footer-button, #footer-dropdown {
+        grid-column: span 1;
+    }
+
+    #footer-footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #footer-footer-nav {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+   
+    #footer-input, #footer-textarea, #footer-button {
+        font-size: 14px;
+    }
+    #footer-dropdown-btn .arrow{
+        display: none;
+    }
+    #footer-footer-content {
+        font-size: 12px;
+    }
+}
