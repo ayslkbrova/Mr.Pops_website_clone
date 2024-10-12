@@ -3,8 +3,8 @@ import { Link,useLocation } from 'react-router-dom';
 import Logo from './Icons/Logo';
 import MenuSideBar from './Header/MenuSideBar';
 import CartSideBar from './Header/CartSideBar';
-import Flavours from './buttons/FlavoursButton';
-import MenuButton from './buttons/MenuButton';
+import Flavours from './Buttons/FlavoursButton';
+import MenuButton from './Buttons/MenuButton';
 import '../style/header.css';
 
 
